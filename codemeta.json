@@ -1,0 +1,95 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "type": "SoftwareSourceCode",
+    "applicationCategory": "environmental science",
+    "author": [
+        {
+            "id": "https://orcid.org/0000-0003-3731-2377",
+            "type": "Person",
+            "affiliation": {
+                "type": "Organization",
+                "name": "British Antarctic Survey"
+            },
+            "email": "jambyr@bas.ac.uk",
+            "familyName": "Byrne",
+            "givenName": "James"
+        },
+        {
+            "type": "schema:Role",
+            "schema:author": "https://orcid.org/0000-0003-3731-2377",
+            "schema:roleName": "Developer"
+        },
+        {
+            "id": "https://orcid.org/0000-0002-0206-7140",
+            "type": "Person",
+            "affiliation": {
+                "type": "Organization",
+                "name": "British Antarctic Survey"
+            },
+            "email": "bryald@bas.ac.uk",
+            "familyName": "Ubald",
+            "givenName": "Bryn Noel"
+        },
+        {
+            "type": "schema:Role",
+            "schema:author": "https://orcid.org/0000-0002-0206-7140",
+            "schema:roleName": "Developer"
+        }
+    ],
+    "codeRepository": "git+https://github.com/eds-book-gallery/67a1e320-7c47-4ea9-8df8-e868326bc90b",
+    "contributor": [
+        {
+            "id": "https://orcid.org/0000-0002-0206-7140",
+            "type": "Person",
+            "affiliation": {
+                "type": "Organization",
+                "name": "British Antarctic Survey"
+            },
+            "email": "bryald@bas.ac.uk",
+            "familyName": "Ubald",
+            "givenName": "Bryn Noel"
+        },
+        {
+            "type": "schema:Role",
+            "contributor": "https://orcid.org/0000-0002-0206-7140",
+            "schema:roleName": "Developer"
+        }
+    ],
+    "dateCreated": "2024-07-01",
+    "dateModified": "2024-07-03",
+    "datePublished": "2024-07-01",
+    "description": "IceNet is a python library that provides the ability to\n  download, process, train and predict from end to end.\n  Users can interact with IceNet either via the python\n  interface or via a set of command-line interfaces (CLI)\n  which provide a high-level interface that covers the above\n  abilities.\n\n\n  This project demonstrates the use of the python library\n  API for forecasting sea ice for a reduced dataset to\n  demonstrate the end-to-end capabilities of IceNet, from\n  source data download to forecast generation.",
+    "downloadUrl": "https://github.com/eds-book-gallery/67a1e320-7c47-4ea9-8df8-e868326bc90b/archive/refs/tags/v1.0.0.tar.gz",
+    "identifier": " 10.5281/zenodo.12613298",
+    "isPartOf": "https://edsbook.org",
+    "keywords": [
+        "deep-learning",
+        "modelling",
+        "polar",
+        "python-package",
+        "environmental-data-science"
+    ],
+    "license": "https://spdx.org/licenses/BSD-3-Clause",
+    "name": "Sea ice forecasting using the IceNet library (Jupyter Notebook) published in the Environmental Data Science book",
+    "operatingSystem": "Linux",
+    "programmingLanguage": [
+        "Python 3",
+        "Jupyter Notebook"
+    ],
+    "relatedLink": "https://w3id.org/ro-id/c9df67a3-0d77-4029-8556-e62fcc95a35b",
+    "schema:releaseNotes": "https://github.com/eds-book-gallery/67a1e320-7c47-4ea9-8df8-e868326bc90b/releases/tag/v1.0.0",
+    "softwareRequirements": [
+        "Python 3",
+        "/",
+        "https://github.com/eds-book-gallery/67a1e320-7c47-4ea9-8df8-e868326bc90b/blob/main/.binder/environment.yml"
+    ],
+    "version": "1.0.0",
+    "contIntegration": "https://github.com/eds-book-gallery/67a1e320-7c47-4ea9-8df8-e868326bc90b/tree/main/.github/workflows",
+    "codemeta:continuousIntegration": {
+        "id": "https://github.com/eds-book-gallery/67a1e320-7c47-4ea9-8df8-e868326bc90b/tree/main/.github/workflows"
+    },
+    "developmentStatus": "active",
+    "codemeta:isSourceCodeOf": {
+        "id": "EDSBook"
+    }
+}

@@ -8,13 +8,19 @@ authors:
     email: jambyr@bas.ac.uk
     affiliation: British Antarctic Survey
     orcid: "https://orcid.org/0000-0003-3731-2377"
+    credit: "develop notebook"
+    role: "developer"
   - given-names: Bryn Noel
     family-names: Ubald
     email: bryald@bas.ac.uk
     affiliation: British Antarctic Survey
     orcid: "https://orcid.org/0000-0002-0206-7140"
+    credit: "develop notebook"
+    role: "developer"
   - name: "This EDS book notebook contributors"
     website: "https://github.com/eds-book-gallery/67a1e320-7c47-4ea9-8df8-e868326bc90b/graphs/contributors"
+    credit: "review, edit and publish the notebook"
+    role: "reviewer, editor, editor in chief, community"
 version: v1.0.0
 identifiers:
   - type: doi

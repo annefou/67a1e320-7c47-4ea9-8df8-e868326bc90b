@@ -76,5 +76,29 @@ You may also download the notebook from GitHub to run it locally:
 
 6. Launch the jupyter interface of your preference, notebook, `jupyter notebook` or lab `jupyter lab`
 
+### Authors and contributors
+
+#### Authors
+
+- [Bryn Noel Ubald](https://orcid.org/0000-0002-0206-7140]
+- [James Byrne](https://orcid.org/0000-0003-3731-2377)
+
+#### Contributors
+
+- [William Gregory](https://orcid.org/0000-0001-8176-1642)
+- [Wei Ji](https://orcid.org/0000-0003-2354-1988)
+
+### Progamming languages
+
+Python 3, Jupyter Notebook
+
+### Date created
+
+2024-07-01
+
+# Keywords
+
+deep-learning, modelling, polar, python-package, environmental-data-science
+
 # Credits
 The **How to run** section was adapted from the [Project Pythia Cookbook](https://cookbooks.projectpythia.org/) project.
