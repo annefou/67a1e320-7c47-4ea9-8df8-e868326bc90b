@@ -102,3 +102,7 @@ deep-learning, modelling, polar, python-package, environmental-data-science
 
 # Credits
 The **How to run** section was adapted from the [Project Pythia Cookbook](https://cookbooks.projectpythia.org/) project.
+
+# License
+
+This project is licensed under the MIT License; for more details, see the [LICENSE file](https://github.com/eds-book-gallery/67a1e320-7c47-4ea9-8df8-e868326bc90b/blob/main/LICENShttps://github.com/eds-book-gallery/67a1e320-7c47-4ea9-8df8-e868326bc90b/blob/main/LICENSEE).
